@@ -1,2 +1,2 @@
 # pubsub-lib
-JS library implementing pub-sub
+Simple pub-sub library. Mainly an experiment
